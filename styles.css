@@ -1,0 +1,29 @@
+header{
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    border-radius: 40p;
+}
+
+footer{
+
+    font-weight: bold;
+    background-color: rgb(153, 101, 38);
+
+
+
+
+}
+section{
+
+    background-color: rgb(80, 60, 35);
+
+
+
+}
+
